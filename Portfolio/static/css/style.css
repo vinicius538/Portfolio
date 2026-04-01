@@ -1,0 +1,16 @@
+/*    
+.color1 { #e7eed0 };
+.color2 { #cad1c3 };
+.color3 { #948e99 };
+.color4 { #51425f };
+.color5 { #2e1437 };
+*/
+body{
+    background-color: #e7eed0 ;
+    margin: 0;
+}
+.navbar{
+    background-color: #2e1437;
+    width: 100%;
+    color: #cad1c3;
+}
